@@ -4060,3 +4060,7 @@ input:-internal-autofill-selected {
 .nav-link svg {
   margin-left: 10px !important;
 }
+
+.nav-link.active path {
+  fill: #0066cc !important;
+}
