@@ -32,7 +32,7 @@ class MyHeader extends HTMLElement {
 </svg>
 
    </a> 
-   <span style="font-size:24px;color: #0066cc;" class=" ml-2">نظام إمداد</span> 
+   <span style="font-size:24px;color: #0066cc;" class=" ml-2">منصة إمداد</span> 
        <!-- Logo End -->
        
    <!-- Navbar Toggler -->
